@@ -1,0 +1,1 @@
+This repo is a demo of a cumstom machine learning algorithm to check the result and compare it whith the current algorithms.
